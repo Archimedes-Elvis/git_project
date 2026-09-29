@@ -1,7 +1,22 @@
-hello everyone
-this is a repo for the git course i am taking
-very informative
-Nice
+# This is the biggest heading
+## this is level 2 heading
+### is level 3 heading
+#### level 4 heading
 
-now updating the readme file so that more changes can be documented
-even more changes
+**Lorem Ipsum is simply dummy text of the printing and typesetting industry.**
+
+__Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley,__
+
+*the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets.*
+
+~~It has survived not only many decades, but also the leap into electronic typesetting,~~
+
+<sup>remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker</sup> and Microsoft Word including versions of Lorem Ipsum.
+
+<sub>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</sub> 
+
+> Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley,
+>
+>> the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and scrambled it to make dummy text for Letraset's Body Type sheets.
+>>
+>>> It has survived not only many decades, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised thanks to these sheets and more recently with desktop publishing software like Aldus PageMaker and Microsoft Word including versions of Lorem Ipsum.
